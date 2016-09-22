@@ -1,0 +1,19 @@
+{
+  "name": "demowebserver",
+  "version": "1.0.0",
+  "description": "des",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancyhn/demoWebServer.git"
+  },
+  "author": "Khoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nancyhn/demoWebServer/issues"
+  },
+  "homepage": "https://github.com/nancyhn/demoWebServer#readme"
+}
